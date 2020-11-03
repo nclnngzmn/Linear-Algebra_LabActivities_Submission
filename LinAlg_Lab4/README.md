@@ -1,4 +1,4 @@
-Linear Algebra: Laboratory 4 - Vector Operations
+Linear Algebra: Laboratory 4 - Vector Products
 <br>58010
 <br>
 <br>
